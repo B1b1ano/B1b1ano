@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @B1b1ano
+- 👋 Hi, I’m @Bibiano
 - 👀 I’m interested in cybersecurity and data analysis
 - 🌱 I’m currently learning cybersecurity
 
